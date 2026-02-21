@@ -1,4 +1,4 @@
-# ElastoPlasticFatiguePF.jl
+# Phase-Field Modeling of Fatigue Crack Growth Coupled with Elastoplasticity: An Open-Source Julia Implementation
 
 Open-source phase-field framework for simulating fatigue crack growth in elastoplastic solids, implemented in Julia using the [Gridap](https://github.com/gridap/Gridap.jl) finite element library.
 
