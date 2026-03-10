@@ -93,11 +93,18 @@ VTK output can be visualised with [ParaView](https://www.paraview.org). The *War
 
 ## Citation
 
-This code is associated with a manuscript that has been submitted to Theoretical and Applied Fracture Mechanics:
+This code is associated with a manuscript that has been submitted to *Theoretical and Applied Fracture Mechanics*:
 
-"An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study." Theoretical and Applied Fracture Mechanics (submitted, 2025).
+>  Peng Zhang, Tang Keke Tang, and Shan-tung Tu. "An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study." *Theoretical and Applied Fracture Mechanics* (submitted, 2025).
 
 If you find this code helpful in your research, please stay tuned for the official publication. Once the paper is accepted and published, we would greatly appreciate it if you could cite our work accordingly.
+
+## Contact
+
+If you have any questions, suggestions, or find any issues with the code, please feel free to reach out. Any feedback or corrections are greatly appreciated.
+
+- 📧 Email: peng05@tongji.edu.cn
+- 💬 WeChat: 15856672654
 
 ## License
 
