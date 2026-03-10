@@ -4,7 +4,7 @@ Open-source phase-field framework for simulating fatigue crack growth in elastop
 
 > **Paper**: *An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study*
 >
-> Peng Zhang, Keke Tang -- Tongji University
+> Peng Zhang, Keke Tang and Shan-tung Tu
 
 ## Features
 
