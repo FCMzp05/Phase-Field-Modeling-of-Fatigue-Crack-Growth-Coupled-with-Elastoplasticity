@@ -86,7 +86,7 @@ Each script creates an output directory with VTK files (for ParaView) and PNG co
 | `hole_plate.jl` | Perforated plate | 4.1.1 | Force & displacement control |
 | `three_point_bending.jl` | Three-point bending | 4.2 | Table 13 |
 | `compact_tension.jl` | Compact tension (CT) | -- | GH4169 @ 550 °C |
-| `double_notch.jl` | ADNT | 4.3 | Yang & Shen (2025) |
+| `double_notch.jl` | ADNT | 4.3 | -- |
 
 ## Post-processing
 
@@ -94,17 +94,11 @@ VTK output can be visualised with [ParaView](https://www.paraview.org). The *War
 
 ## Citation
 
-If you use this code, please cite:
+This code is associated with a manuscript that has been submitted to Theoretical and Applied Fracture Mechanics:
 
-```bibtex
-@article{zhang2025fatigue,
-  title   = {An open-source phase-field framework for elastoplastic fatigue
-             crack growth with comparative hardening study},
-  author  = {Zhang, Peng and Tang, Keke and Shan-tung Tu},
-  journal = {Theoretical and Applied Fracture Mechanics},
-  year    = {2025}
-}
-```
+Zhang, Peng, Tang, Keke, and Shan-tung Tu. "An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study." Theoretical and Applied Fracture Mechanics (submitted, 2025).
+
+If you find this code helpful in your research, please stay tuned for the official publication. Once the paper is accepted and published, we would greatly appreciate it if you could cite our work accordingly.
 
 ## License
 
