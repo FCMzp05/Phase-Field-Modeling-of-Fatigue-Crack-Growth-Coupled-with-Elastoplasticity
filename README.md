@@ -100,7 +100,7 @@ If you use this code, please cite:
 @article{zhang2025fatigue,
   title   = {An open-source phase-field framework for elastoplastic fatigue
              crack growth with comparative hardening study},
-  author  = {Zhang, Peng and Tang, Keke},
+  author  = {Zhang, Peng and Tang, Keke and Shan-tung Tu},
   journal = {Theoretical and Applied Fracture Mechanics},
   year    = {2025}
 }
