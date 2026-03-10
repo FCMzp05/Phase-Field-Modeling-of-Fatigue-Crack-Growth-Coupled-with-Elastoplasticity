@@ -2,7 +2,7 @@
 
 Open-source phase-field framework for simulating fatigue crack growth in elastoplastic solids, implemented in Julia using the [Gridap](https://github.com/gridap/Gridap.jl) finite element library.
 
-> **Paper**: *An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study*
+> **Paper**: *Phase-Field Modeling of Fatigue Crack Growth Coupled with Elastoplasticity: An Open-Source Julia Implementation*
 
 
 ## Features
@@ -95,7 +95,7 @@ VTK output can be visualised with [ParaView](https://www.paraview.org). The *War
 
 This code is associated with a manuscript that has been submitted to *Theoretical and Applied Fracture Mechanics*:
 
->  Peng Zhang, Keke Tang, and Shan-tung Tu. "An open-source phase-field framework for elastoplastic fatigue crack growth with comparative hardening study." *Theoretical and Applied Fracture Mechanics* (submitted, 2025).
+>  Peng Zhang, Keke Tang, and Shan-tung Tu. "Phase-Field Modeling of Fatigue Crack Growth Coupled with Elastoplasticity: An Open-Source Julia Implementation" *Theoretical and Applied Fracture Mechanics* (submitted, 2025).
 
 If you find this code helpful in your research, please stay tuned for the official publication. Once the paper is accepted and published, we would greatly appreciate it if you could cite our work accordingly.
 
